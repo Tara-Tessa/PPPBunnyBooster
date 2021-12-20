@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="toon" size="20.000000 26.666666" />
+    <ImageTarget name="controleer" size="20.000000 26.666666" />
+    <ImageTarget name="random" size="20.000000 26.666666" />
+    <ImageTarget name="roze" size="20.000000 26.666666" />
+    <ImageTarget name="paars" size="20.000000 26.666666" />
+    <ImageTarget name="aqua" size="20.000000 26.666666" />
+    <ImageTarget name="blauw" size="20.000000 26.666666" />
+    <ImageTarget name="groen" size="20.000000 26.666666" />
+    <ImageTarget name="geel" size="20.000000 26.666666" />
+    <ImageTarget name="oranje" size="20.000000 26.666666" />
+    <ImageTarget name="rood" size="20.000000 26.666666" />
+    <ImageTarget name="QR_Code" size="20.000000 26.666666" />
+  </Tracking>
+</QCARConfig>
